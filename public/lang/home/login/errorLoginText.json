@@ -1,0 +1,24 @@
+{
+    "emailEmpty": {
+        "es": "El campo del email esta vacio",
+        "fr": "le champ email est vide",
+        "en": "the email field is empty"
+    },
+    "passwordEmpty": {
+        "es": "El campo de la contraseña esta vacio",
+        "fr": "Le champ du mot de passe est vide",
+        "en": "The password field is empty"
+    },
+
+    "invalidEmailFormat": {
+        "es": "Introduce un formato valido de email",
+        "fr": "Entrez un format d'e-mail valide",
+        "en": "The password field is empty"
+    },
+
+    "errorEmailOrUsername": {
+        "es": "Email o contraseña incorrectos",
+        "fr": "Mauvais email ou mot de passe",
+        "en": "Wrong email or password"
+    }
+}

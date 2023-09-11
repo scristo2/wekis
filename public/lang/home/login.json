@@ -1,0 +1,33 @@
+{
+    "placeholderEmail": {
+        "es": "email",
+        "fr": "email",
+        "en": "email"
+    },
+    "placeholderPassword": {
+        "es": "contraseña",
+        "fr": "mot de passe",
+        "en": "enter your password"
+    },
+
+    "keepsessionText" : {
+
+         "fr" : "garder la session ouverte",
+         "es" : "Mantener sesion abierta ",
+         "en" : "keep session open"
+    },
+
+    "submitButtonText" : {
+
+         "es" : "iniciar sesion",
+         "en" : "log in",
+         "fr" : "commencer la session"
+    },
+
+    "resetPasswordText" : {
+
+        "es" : "resetear contraseña",
+        "fr" : "changer le mot de passe",
+        "en" : "change password"
+    }
+}
